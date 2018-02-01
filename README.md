@@ -17,10 +17,5 @@
 <img src="https://github.com/liuxuanqiang/wechat-weapp-mall/blob/master/images/screenshots/screenshorts-02.png" width="320px" style="display:inline;">
 
 <img src="https://github.com/liuxuanqiang/wechat-weapp-mall/blob/master/images/screenshots/screenshorts-03.png" width="320px" style="display:inline;">
-
-<img src="https://github.com/liuxuanqiang/wechat-weapp-mall/blob/master/images/screenshots/screenshorts-04.png" width="320px" style="display:inline;">
-
 ### 开发环境：
 微信web开发者工具 v0.9.092300
-
-### 项目地址：
